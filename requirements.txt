@@ -1,0 +1,12 @@
+torch
+transformers>=4.45
+peft
+accelerate
+einops
+safetensors
+huggingface_hub
+gguf
+torchao
+bitsandbytes
+fastapi
+uvicorn
